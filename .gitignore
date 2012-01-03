@@ -15,3 +15,8 @@ gen
 target
 release.properties
 pom.xml.*
+
+#Ant
+local.properties
+build.xml
+proguard.cfg
